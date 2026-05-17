@@ -1,6 +1,11 @@
 # Konekko Services — Portal Pengaduan Masyarakat
 <p align="center">
-  <img src="https://media.tenor.com/9W6DqJQ6mWAAAAAj/cat-pixel.gif" width="180px">
+  <img src="https://media.tenor.com/f5T0gcox9LoAAAAj/cat-pixel.gif" alt="Pixel Brown Cat" width="170">
+</p>
+
+<h1 align="center">Konekko Services</h1>
+<p align="center">
+  Portal Pengaduan Masyarakat 🐾
 </p>
 
 > Next.js + MySQL (konekko_services)
