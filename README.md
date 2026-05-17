@@ -1,6 +1,7 @@
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhlNDFhM2dqNGlzY2Q0YWF5MjllNnV1Nm5qM2ZpcnFqaGQ2c2xkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="220" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pqOWRjOW8wdnduYjM0YmR3dGNmMGlmM3l2MjVybml0Y2c0aGJxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="220" /> </p>
-
 # Konekko Services — Portal Pengaduan Masyarakat
+<div class="tenor-gif-embed" data-postid="9193241577650255034" data-share-method="host" data-aspect-ratio="1.12245" data-width="100%"><a href="https://tenor.com/view/cat-pixel-gif-9193241577650255034">Cat Pixel Sticker</a>from <a href="https://tenor.com/search/cat-stickers">Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 > Next.js + MySQL (konekko_services)
 
 ## Stack
