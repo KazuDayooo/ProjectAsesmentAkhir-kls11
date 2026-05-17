@@ -1,6 +1,7 @@
 # Konekko Services — Portal Pengaduan Masyarakat
-<div class="tenor-gif-embed" data-postid="9193241577650255034" data-share-method="host" data-aspect-ratio="1.12245" data-width="100%"><a href="https://tenor.com/view/cat-pixel-gif-9193241577650255034">Cat Pixel Sticker</a>from <a href="https://tenor.com/search/cat-stickers">Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center">
+  <img src="https://media.tenor.com/9W6DqJQ6mWAAAAAj/cat-pixel.gif" alt="pixel cat" width="180">
+</p>
 
 > Next.js + MySQL (konekko_services)
 
