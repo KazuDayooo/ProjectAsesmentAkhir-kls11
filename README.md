@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhlNDFhM2dqNGlzY2Q0YWF5MjllNnV1Nm5qM2ZpcnFqaGQ2c2xkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="220" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pqOWRjOW8wdnduYjM0YmR3dGNmMGlmM3l2MjVybml0Y2c0aGJxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="220" /> </p>
+
 # Konekko Services — Portal Pengaduan Masyarakat
 > Next.js + MySQL (konekko_services)
 
